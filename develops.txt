@@ -1,1 +1,2 @@
 this is my develops.txt file
+new changes has been happen
